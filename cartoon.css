@@ -8,10 +8,10 @@ body{
 
 #runner{
 	background: url("capguy-walk.png");
-	width: 75px;
+	width: 76px;
 	height: 132px;
 	animation: walk 1s steps(8) infinite,
-					forward 5s linear infinite;
+					forward 4s linear infinite;
 }
 
 @keyframes walk{
